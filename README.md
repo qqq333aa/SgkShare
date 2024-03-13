@@ -11,10 +11,11 @@
 
 ## 一、社工库网站
 
-### 1 免费社工库导航
+### 1 MI6免费查人社工库
 
+地址: @MI6SGK_bot (https://t.me/MI6SGK_bot)
 
-一个收录超好用的免费社工库导航页，地址： <a href="https://www.shegongku.top/" target="_blank">https://www.shegongku.top/</a>。
+一个超级好用的社工库 免费查个人信息 身份证 手机号  QQ  地址等等
 
 
 ### 2. LosePrivacy
@@ -53,7 +54,7 @@
 
 🔍可查询： **快递地址**、微信原始ID、手机机主、身份证信息、QQ/微博/LOL绑定、邮箱查找、同名查找、模糊找人
 
-地址: [@Joker_SGK](https://t.me/AJL01_bot?start=qstxIqcQ3R)
+地址: [@Joker_SGK](https://t.me/AJL01_bot?start=qstxIqc
 
 备注：**无需签到，每天默认送两次免费查询机会**，超级综合检索系统，适用于模糊找人
 
